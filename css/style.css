@@ -72,7 +72,7 @@ body input[type="text"],body input[type="submit"],body textarea,body input[type=
 	width: 86%;
 }
 .banner-info{
-	width: 70%;
+	width: 102%;
 	float: right;
 }
 .bannerlogo{
@@ -99,7 +99,7 @@ body input[type="text"],body input[type="submit"],body textarea,body input[type=
   color: #F1E9F2;
   font-weight: bolder;
   text-shadow: 1px 1px 1px black;
-  font-size: 2.5em;
+  font-size: 2.0em;
 }
 .bannerhead p{
     color:#F1E9F2;
@@ -119,10 +119,11 @@ a.downarrow{
 .bannerhead{
 	position: relative;
 	width: 90%;
+	text-align: center;
 }
 .banner-info{
 	position: relative;
-	top: 182px;
+	top: 220px;
 	left: 11%;
 }
 
