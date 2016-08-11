@@ -92,7 +92,7 @@ body input[type="text"],body input[type="submit"],body textarea,body input[type=
 	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
 	color: #F1E9F2;
 	font-weight: bolder;
-	font-size: 1.2em;
+	font-size: 1.6em;
 }
 .bannerhead h3{
 	font-family: Helvetica, sans-serif;
@@ -100,6 +100,13 @@ body input[type="text"],body input[type="submit"],body textarea,body input[type=
   font-weight: bolder;
   text-shadow: 1px 1px 1px black;
   font-size: 2.0em;
+}
+
+.bannerhead h4 span{
+	font-family: Helvetica, sans-serif;
+  color: #F1E9F2;
+  text-shadow: 1px 1px 1px black;
+  font-size: 1.3em;
 }
 .bannerhead p{
     color:#F1E9F2;
