@@ -22,8 +22,8 @@ body input[type="text"],body input[type="submit"],body textarea,body input[type=
 }
 /*------ HEADERBG STARTS---------*/
 .headerbg{
-	background: url(http://res.cloudinary.com/dcqvnxgiy/image/upload/v1468872015/bridge1_vpai5i.jpg);
-	min-height:700px;
+	background: url(http://res.cloudinary.com/dcqvnxgiy/image/upload/v1481609266/Golden-Gate-Bridge-Sunrise-Photography_imoums.jpg);
+	min-height:800px;
 	width:100%;
 	background-size:cover;
 }
@@ -89,7 +89,7 @@ body input[type="text"],body input[type="submit"],body textarea,body input[type=
 }
 .bannerhead h2 span{
 	font-family: Helvetica, sans-serif;
-	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+	text-shadow: 3px 3px 3px rgba(0, 0, 0, 1);
 	color: #F1E9F2;
 	font-weight: bolder;
 	font-size: 1.6em;
@@ -105,7 +105,7 @@ body input[type="text"],body input[type="submit"],body textarea,body input[type=
 .bannerhead h4 span{
 	font-family: Helvetica, sans-serif;
   color: #F1E9F2;
-  text-shadow: 1px 1px 1px black;
+  text-shadow: 2.5px 2.5px 2.5px rgba(0, 0, 0, 1);
   font-size: 1.3em;
 }
 .bannerhead p{
